@@ -1,3 +1,3 @@
-#Following the Github course on Udemy by Kalob.
+# Using git on the command line
 
 Testing 1, 2, 3.
